@@ -60,7 +60,7 @@ if os.path.exists(favorites)==True:
     FAV = open(favorites).read()
 else: FAV = []
 
-SOURCES = [{"url": "https://drive.google.com/file/d/0B5D-NdBkYJ01WDFuQ2JndVNtM0E/view?usp=sharing", "fanart": "http://i.imgur.com/9lgyHkn.jpg", "genre": "Tv Live", "date": "10.07.2015", "credits": "Yulfiostv", "thumbnail": "http://i.imgur.com/gr9kCLp.png"}]
+SOURCES = [{"url": "https://drive.google.com/open?id=0B5D-NdBkYJ01WDFuQ2JndVNtM0E", "fanart": "http://i.imgur.com/9lgyHkn.jpg", "genre": "Tv Live", "date": "10.07.2015", "credits": "Yulfiostv", "thumbnail": "http://i.imgur.com/gr9kCLp.png"}]
 
 # http://i.imgur.com/aOyKUFn.jpg
 # http://i.imgur.com/CUE62qD.png
